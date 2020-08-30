@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074196091810",
+    "firebase_url": "https://pharmacy-2e8d8.firebaseio.com",
+    "project_id": "pharmacy-2e8d8",
+    "storage_bucket": "pharmacy-2e8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074196091810:android:1d3ef9b1920b294d3a98fb",
+        "android_client_info": {
+          "package_name": "com.HWI.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074196091810-vm26947vu57gr4rqd889ouv9mpvqe64v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6avgnRd0QABGHtHS5UbQBGhOTDxSg72U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074196091810-vm26947vu57gr4rqd889ouv9mpvqe64v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
